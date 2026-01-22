@@ -18,6 +18,11 @@ Easy to customize and extend
 
 Cross-browser compatible
 
+Search Capability implemented in Product page
+
+Simple animation effect added for products
+
+
 🛠️ Technologies Used
 
 HTML5 – Markup structure
@@ -54,8 +59,6 @@ Backend Javascript
 
 
 📌 Future Improvements
-
-Improve animations and transitions
 
 Add more pages or components
 
