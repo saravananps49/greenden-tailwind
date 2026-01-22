@@ -1,8 +1,8 @@
 # greenden-tailwind
 
-🌐 Responsive Website using HTML, CSS & Tailwind CSS
+🌐 Responsive Website using HTML, CSS, Tailwind CSS & Javascript.
 
-This project is a modern, responsive website built using HTML5, CSS3, and Tailwind CSS. It focuses on clean UI design, mobile responsiveness, and reusable utility-first styling provided by Tailwind.
+This project is a modern, responsive website built using HTML5, CSS3, Tailwind CSS & Javascript. It focuses on clean UI design, mobile responsiveness, and reusable utility-first styling provided by Tailwind.
 
 🚀 Features
 
@@ -26,6 +26,8 @@ CSS3 – Custom styling
 
 Tailwind CSS – Utility-first CSS framework
 
+Javascript
+
 
 📱 Responsive Design
 
@@ -48,9 +50,10 @@ Frontend practice projects
 
 UI/UX design experimentation
 
-📌 Future Improvements
+Backend Javascript
 
-Add JavaScript for interactivity
+
+📌 Future Improvements
 
 Improve animations and transitions
 
